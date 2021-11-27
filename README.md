@@ -1,5 +1,7 @@
 # GIT-BASIC
 This contain git basic operation.
+hi.
+This my first repository.
 git branch <branch name>
 git checkout <branch name> --- to move/switch  in created branch
 git push --set-upstream origin <branch name>
